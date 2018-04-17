@@ -20,6 +20,10 @@ $ cp .env.dist .env
 And fill `WG_API_KEY` with your own API Key (You can get an API Key by signing up on [Weglot](https://weglot.com/)).
 - And run local server: `php bin/console server:run`, you'll see working example on http://127.0.0.1:8000/
 
+## Troubleshooting
+
+If you find any issue on this example, please report on the master repository: https://github.com/weglot/translate-bundle
+
 ## About
 `translate-bundle-example-sf4` is guided and supported by the Weglot Developer Team.
 
