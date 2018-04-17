@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Weglot - Translate Bundle - Symfony 4</title>
+
+        <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+        <!-- Bulma Version 0.6.2 -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" integrity="sha256-2k1KVsNPRXxZOsXQ8aqcZ9GOOwmJTMoOB5o5Qp1d6/s=" crossorigin="anonymous" />
+        <link rel="stylesheet" type="text/css" href="https://cdn.weglot.com/utils/bulma-hero.css">
+    </head>
+    <body>
+        {% include 'header.html.twig' %}
+        {% block content %}{% endblock %}
+
+        <footer class="footer">
+            <div class="container">
+                <div class="content has-text-centered">
+                    <p>
+                        <strong>Translate Bundle - Symfony 4</strong> by <a href="https://github.com/weglot">Weglot</a>. The source code is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
+                    </p>
+                    <p>
+                        <a class="icon" href="https://github.com/weglot/translate-bundle-example-sf4/">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
