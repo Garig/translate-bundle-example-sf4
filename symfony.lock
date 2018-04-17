@@ -23,11 +23,23 @@
     "doctrine/lexer": {
         "version": "v1.0.1"
     },
+    "guzzlehttp/guzzle": {
+        "version": "6.3.2"
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.4.2"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
     "psr/container": {
         "version": "1.0.0"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
     },
     "psr/log": {
         "version": "1.0.2"
@@ -145,5 +157,14 @@
     },
     "twig/twig": {
         "version": "v2.4.8"
+    },
+    "weglot/simplehtmldom": {
+        "version": "0.2"
+    },
+    "weglot/translate-bundle": {
+        "version": "0.5"
+    },
+    "weglot/weglot-php": {
+        "version": "0.1"
     }
 }
