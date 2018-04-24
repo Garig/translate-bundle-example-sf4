@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.2]
+### Added
+- hreflang generation throught Twig function
+- Caching
+
 ## [0.1]
 ### Added
 - Initializing repository
