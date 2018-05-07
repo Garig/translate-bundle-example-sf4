@@ -1,6 +1,8 @@
 <!-- logo -->
 <img src="https://cdn.weglot.com/logo/logo-hor.png" height="40" />
 
+[![WeglotSlack](https://weglot-community.now.sh/badge.svg)](https://weglot-community.now.sh/)
+
 # Symfony Translate Bundle - Symfony 4 example
 
 ## Overview
